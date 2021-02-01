@@ -15,7 +15,7 @@
 7. python train.py
 6. python test.py
 
-
+NOTE: Don't forget to change the conf.json file according to the folder where your images are located.
 
 
 
