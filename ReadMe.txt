@@ -7,8 +7,13 @@
 		pandas
 		matplotlib
 		opencv-python
-5. Switch to the folder of the code we want to test. for example; " (keras) PS C:\Users\yancar\Desktop\plant> "
+		scikitplot
+		seaborn
+5. Switch to the folder of the code we want to test. for example; " (tensorflow) PS C:\Users\yancar\Desktop\plant> "
+6. python extract_features.py
+7. python train.py
 6. python test.py
+
 
 
 
