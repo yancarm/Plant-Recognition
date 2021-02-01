@@ -16,31 +16,3 @@
 6. python test.py
 
 NOTE: Don't forget to change the conf.json file according to the folder where your images are located.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#from sklearn.metrics import multilabel_confusion_matrix
