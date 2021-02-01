@@ -9,6 +9,7 @@
 		opencv-python
 		scikitplot
 		seaborn
+   (If there are missing libraries, it will give an error. The error output indicates which library it is.)
 5. Switch to the folder of the code we want to test. for example; " (tensorflow) PS C:\Users\yancar\Desktop\plant> "
 6. python extract_features.py
 7. python train.py
